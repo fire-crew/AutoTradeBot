@@ -8,12 +8,10 @@ import logging
 import requests
 import json
 import logging
-import schedule
 import Util
 
-from API import *
+from BithumbAPI import *
 from pandas.io.json import json_normalize
-from slacker import Slacker
 from pybithumb import Bithumb
 from urllib.parse import urlencode
 
