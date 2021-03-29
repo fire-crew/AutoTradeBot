@@ -12,7 +12,7 @@
 ## 핵심 기능  Key Feature
 
 
-## 사용 How To Use
+## 사용 How To Use(예정)
 ```
 pip install ilovedevAutobot
 ```  
